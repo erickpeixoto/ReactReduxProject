@@ -1,0 +1,43 @@
+.border{
+    border: 1px solid red;
+}
+footer,.footer{
+    background-color: rgb(61, 61, 72) !important;
+    min-height: 300px;
+}
+footer{
+    color: #8e8e8e !important;
+}
+.c-gray{
+    color: #8e8e8e !important;
+}
+nav.main{
+    position: fixed;
+}
+
+.test{
+    width: 200px;
+    height: 100px;
+}
+.paper{
+    box-shadow: 0 6px 26px 0 rgba(0, 0, 0, 0.7), 0 1px 5px 0 rgb(0, 0, 0), 0 3px 1px -2px rgb(0, 0, 0);
+}
+ nav.teaser ul li a {
+        border-top: 3px transparent solid;
+          -webkit-transition: width 200ms, height 200ms, background-color 200ms, -webkit-transform 200ms;
+          transition: width 200ms, height 200ms, background-color 200ms, transform 200ms;
+    }
+
+.blue-grey{
+    width: 300px;
+    height: 100px;
+}
+.c-default{
+    color: #0fb5b3 !important;
+}
+.full-size{
+    width: 100% !important;
+}
+.alignRight{
+    text-align: right !important;
+}

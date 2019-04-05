@@ -1,0 +1,35 @@
+.table-body thead{
+    background: #f2f4f8;
+    position: fixed;
+    width: 77%;
+    margin: -7px;
+    z-index: 999;
+    display: block;
+}
+.table-body td, th {
+    width: 3% !important;
+}
+.table-body thead tr:nth-child(1) {
+    border-bottom: 0px !important;
+}
+
+.table-body div div:nth-child(2){
+    margin-top: 52px;
+}
+.top6{
+    margin-top: 6px;
+}
+.zindex-default{
+    z-index: 1005 !important;
+}
+[data-reactroot]{
+  z-index: 1000 !important;   
+}
+.header-full{
+ width: 92.8% !important;
+}
+.name-modal{
+    top: -4px;
+    position: relative;
+    margin-left: 10px;
+}
