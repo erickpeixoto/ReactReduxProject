@@ -35,12 +35,6 @@ Para ter acesso ao Front-End, acesse a pasta **frontend** e rode:
 npm start 
 ```
 
-## Demo Online
-
-Vídeo com a demonstração de instalação e uso
-[Clique para assistir](https://www.useloom.com/share/7ffea187d2b448f1af4fab7b582af8bf )
-
-
 ## Authors
 
 * **Erick Eduardo** - *Full Stack Developer* - [Profile](https://github.com/erickpeixoto)
